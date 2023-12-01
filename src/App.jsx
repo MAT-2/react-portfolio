@@ -4,11 +4,10 @@ import Nav from "./components/Tabs";
 function App() {
   return (
     <>
-      <Nav>
-        <main className="mx-3">
-          <Outlet />
-        </main>
-      </Nav>
+      <Nav />
+      <main className="mx-3">
+        <Outlet />
+      </main>
     </>
   );
 }
