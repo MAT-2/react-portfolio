@@ -38,7 +38,7 @@ function Tabs() {
                     mainPage === "/Contact" ? "nav-link active" : "nav-link"
                   }
                 >
-                  Contact Me
+                  Contact
                 </Link>
               </a>
             </li>
