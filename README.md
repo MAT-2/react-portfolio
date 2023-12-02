@@ -18,3 +18,6 @@ Refer to License
 - https://www.w3schools.com/css/css_outline_width.asp
 - https://www.w3schools.com/w3css/w3css_input.asp
 - https://www.freecodecamp.org/news/how-to-center-text-vertically-with-css/
+- https://getbootstrap.com/docs/5.0/components/buttons/
+- https://mdbootstrap.com/docs/standard/extended/card-columns/
+- https://3tdesign.edu.vn/simple-wallpaper-pinterest-1pfkp1i2/
