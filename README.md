@@ -15,3 +15,6 @@ Refer to License
 - https://www.freecodecamp.org/news/html-page-width-height/
 - https://developer.mozilla.org/en-US/docs/Web/CSS/background-repeat
 - https://cssgradient.io/
+- https://www.w3schools.com/css/css_outline_width.asp
+- https://www.w3schools.com/w3css/w3css_input.asp
+- https://www.freecodecamp.org/news/how-to-center-text-vertically-with-css/
