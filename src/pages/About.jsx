@@ -1,9 +1,11 @@
 const styles = {
   heading: { fontSize: "3rem", margin: "10px" },
   content: { fontSize: "25px", margin: "10px" },
-  // body: {
-  //   background: "#00b2f6",
-  // },
+  body: {
+    color: "gray",
+    lineHeight: "initial",
+    fontWeight: "normal",
+  },
   image: { height: "100px", width: "100px", margin: "10px" },
 };
 
