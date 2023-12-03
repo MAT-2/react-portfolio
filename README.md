@@ -6,6 +6,7 @@
 - Bootstrap
 - React.JS
 - VITE
+- Font Awesome
 
 ## License
 
@@ -26,3 +27,6 @@ Refer to License
 - https://getbootstrap.com/docs/5.0/components/buttons/
 - https://mdbootstrap.com/docs/standard/extended/card-columns/
 - https://3tdesign.edu.vn/simple-wallpaper-pinterest-1pfkp1i2/
+- https://fontawesome.com/docs/web/use-with/react/
+- https://fontawesome.com/docs/web/use-with/react/add-icons
+- https://fontawesome.com/docs/web/use-with/react/style#size

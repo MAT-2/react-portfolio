@@ -1,3 +1,12 @@
+//Importing Icons
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
+import {
+  faGithub,
+  faLinkedin,
+  faStackOverflow,
+} from "@fortawesome/free-brands-svg-icons";
+
 const styles = {
   heading: {
     fontSize: "3rem",
@@ -33,6 +42,17 @@ function Resume() {
 
       <p style={styles.content}>Front-End Technologies:</p>
       <p style={styles.content}>Back-End Technologies:</p>
+      <div className="d-flex justify-content-center p-4">
+        <div className="p-2">
+          <FontAwesomeIcon icon={faGithub} size="6x" />
+        </div>
+        <div className="p-2">
+          <FontAwesomeIcon icon={faLinkedin} size="6x" />
+        </div>
+        <div className="p-2">
+          <FontAwesomeIcon icon={faStackOverflow} size="6x" />
+        </div>
+      </div>
     </div>
   );
 }
