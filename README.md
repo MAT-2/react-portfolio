@@ -30,3 +30,7 @@ Refer to License
 - https://fontawesome.com/docs/web/use-with/react/
 - https://fontawesome.com/docs/web/use-with/react/add-icons
 - https://fontawesome.com/docs/web/use-with/react/style#size
+- https://www.w3schools.com/cssref/sel_hover.php
+- https://www.w3schools.com/cssref/css3_pr_transform.php
+- https://www.w3schools.com/css/css3_transitions.asp
+- https://css-tricks.com/ease-out-in-ease-in-out/

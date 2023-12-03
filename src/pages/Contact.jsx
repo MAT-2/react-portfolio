@@ -50,14 +50,14 @@ function Contact() {
           <input className="w3-input w3-border m-3" type="text"></input>
           <button style={styles.button}>Send!</button>
           <div className="d-flex justify-content-center p-4">
-            <div className="p-2">
-              <FontAwesomeIcon icon={faGithub} size="6x" />
+            <div className="p-2" id="icon">
+              <FontAwesomeIcon icon={faGithub} size="4x" />
             </div>
             <div className="p-2">
-              <FontAwesomeIcon icon={faLinkedin} size="6x" />
+              <FontAwesomeIcon icon={faLinkedin} size="4x" id="icon" />
             </div>
             <div className="p-2">
-              <FontAwesomeIcon icon={faStackOverflow} size="6x" />
+              <FontAwesomeIcon icon={faStackOverflow} size="4x" id="icon" />
             </div>
           </div>
         </div>

@@ -43,14 +43,14 @@ function Resume() {
       <p style={styles.content}>Front-End Technologies:</p>
       <p style={styles.content}>Back-End Technologies:</p>
       <div className="d-flex justify-content-center p-4">
-        <div className="p-2">
-          <FontAwesomeIcon icon={faGithub} size="6x" />
+        <div className="p-2" id="icon">
+          <FontAwesomeIcon icon={faGithub} size="4x" />
         </div>
         <div className="p-2">
-          <FontAwesomeIcon icon={faLinkedin} size="6x" />
+          <FontAwesomeIcon icon={faLinkedin} size="4x" id="icon" />
         </div>
         <div className="p-2">
-          <FontAwesomeIcon icon={faStackOverflow} size="6x" />
+          <FontAwesomeIcon icon={faStackOverflow} size="4x" id="icon" />
         </div>
       </div>
     </div>
