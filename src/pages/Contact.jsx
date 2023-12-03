@@ -13,11 +13,9 @@ const styles = {
     padding: 20,
   },
   body: {
-    color: "gray",
     lineHeight: "initial",
     fontWeight: "normal",
   },
-  image: { height: "100px", width: "100px", margin: "10px" },
   card: {
     margin: 20,
     background: "#d2e9f2",

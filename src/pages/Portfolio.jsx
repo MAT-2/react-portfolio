@@ -13,7 +13,6 @@ const styles = {
     padding: 20,
   },
   body: {
-    color: "gray",
     lineHeight: "initial",
     fontWeight: "normal",
   },
@@ -42,7 +41,9 @@ function Portfolio() {
                   <h5 className="card-title">Project 1 </h5>
                   <p className="card-text">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Corrupti, cum.
+                    Repellendus quas, deserunt accusamus corrupti est, minus
+                    nulla incidunt illo corporis pariatur maiores officia, ipsum
+                    asperiores atque.
                   </p>
                 </div>
               </div>
@@ -56,8 +57,10 @@ function Portfolio() {
                 <div className="card-body">
                   <h5 className="card-title">Project 2</h5>
                   <p className="card-text">
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                    Asperiores assumenda, repellendus ea ullam atque illo?
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Repellendus quas, deserunt accusamus corrupti est, minus
+                    nulla incidunt illo corporis pariatur maiores officia, ipsum
+                    asperiores atque.
                   </p>
                 </div>
               </div>
@@ -72,8 +75,9 @@ function Portfolio() {
                   <h5 className="card-title">Project 3</h5>
                   <p className="card-text">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Asperiores molestiae recusandae vel illo amet voluptate
-                    ipsum eaque officia cumque voluptates!
+                    Repellendus quas, deserunt accusamus corrupti est, minus
+                    nulla incidunt illo corporis pariatur maiores officia, ipsum
+                    asperiores atque.
                   </p>
                 </div>
               </div>
