@@ -1,6 +1,11 @@
-# react-portfolio
+# Description
 
 ## Installations
+
+- NPM
+- Bootstrap
+- React.JS
+- VITE
 
 ## License
 
