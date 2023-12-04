@@ -37,3 +37,4 @@ Refer to License
 - Employee tracker Image: https://thenounproject.com/browse/icons/term/employee-time/
 - README Image: https://iconscout.com/icons/markdown
 - Rock Paper Scissors Image: https://in.pinterest.com/pin/rock-paper-scissors-rock-drawing-paper-drawing-rock-sketch-png-transparent-clipart-image-and-psd-file-for-free-download--747879081845727421/
+- https://medium.com/coding-beauty/react-image-link-4dc90bbfa7bd

@@ -42,10 +42,16 @@ function Portfolio() {
           <div className="row row-cols-1 row-cols-md-2 g-4">
             <div className="col">
               <div className="card h-100">
-                <img
-                  src="/src/images/quote-of-the-day-logo.png"
-                  className="card-img-top"
-                />
+                <a
+                  href="https://github.com/elmfer/quote-of-the-day"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img
+                    src="/src/images/quote-of-the-day-logo.png"
+                    className="card-img-top"
+                  />
+                </a>
                 <div className="card-body">
                   <h5 className="card-title">Quote Of The Day</h5>
                   <p className="card-text">
@@ -57,10 +63,16 @@ function Portfolio() {
             </div>
             <div className="col">
               <div className="card h-100">
-                <img
-                  src="/src/images/stressfree.jpg"
-                  className="card-img-top"
-                />
+                <a
+                  href="https://github.com/bmancuso3/stress-free-me"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img
+                    src="/src/images/stressfree.jpg"
+                    className="card-img-top"
+                  />
+                </a>
                 <div className="card-body">
                   <h5 className="card-title">Stress-Free-Me</h5>
                   <p className="card-text">
@@ -72,10 +84,16 @@ function Portfolio() {
             </div>
             <div className="col">
               <div className="card h-100">
-                <img
-                  src="/src/images/employeeTracker.png"
-                  className="card-img-top"
-                />
+                <a
+                  href="https://github.com/MAT-2/employee-tracker"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img
+                    src="/src/images/employeeTracker.png"
+                    className="card-img-top"
+                  />
+                </a>
                 <div className="card-body">
                   <h5 className="card-title">Employee Tracker</h5>
                   <p className="card-text">
@@ -87,10 +105,16 @@ function Portfolio() {
             </div>
             <div className="col">
               <div className="card h-100">
-                <img
-                  src="/src/images/markdownPNG.png"
-                  className="card-img-top"
-                />
+                <a
+                  href="https://github.com/MAT-2/readme-generator"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img
+                    src="/src/images/markdownPNG.png"
+                    className="card-img-top"
+                  />
+                </a>
                 <div className="card-body">
                   <h5 className="card-title">README Generator</h5>
                   <p className="card-text">
@@ -101,10 +125,16 @@ function Portfolio() {
             </div>
             <div className="col">
               <div className="card h-100">
-                <img
-                  src="/src/images/etchSketch.JPG"
-                  className="card-img-top"
-                />
+                <a
+                  href="https://github.com/MAT-2/Etch-a-Sketch"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img
+                    src="/src/images/etchSketch.JPG"
+                    className="card-img-top"
+                  />
+                </a>
                 <div className="card-body">
                   <h5 className="card-title">Etch-a-Sketch</h5>
                   <p className="card-text">
@@ -116,10 +146,16 @@ function Portfolio() {
             </div>
             <div className="col">
               <div className="card h-100">
-                <img
-                  src="/src/images/rockPaperScissors.JPG"
-                  className="card-img-top"
-                />
+                <a
+                  href="https://github.com/MAT-2/Rock-Paper-Scissors-Project"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img
+                    src="/src/images/rockPaperScissors.JPG"
+                    className="card-img-top"
+                  />
+                </a>
                 <div className="card-body">
                   <h5 className="card-title">Rock-Paper-Scissors</h5>
                   <p className="card-text">
