@@ -42,18 +42,10 @@ function About() {
         style={styles.image}
       ></img>
       <p style={styles.content}>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis
-        provident ipsam eos saepe adipisci repudiandae ipsum facere nisi
-        deserunt quibusdam, totam possimus soluta ullam hic ut amet sequi
-        praesentium obcaecati laudantium voluptatum magnam dolor voluptates
-        aspernatur! Aliquid nihil neque magnam, veniam vero labore impedit quis!
-        Accusantium exercitationem accusamus deserunt impedit eligendi sint
-        consequuntur quam nesciunt iure perferendis. Dolore sequi ipsam, ratione
-        voluptatibus cum excepturi. Aperiam inventore possimus commodi.
-        Cupiditate eum tenetur laboriosam odit quis quaerat possimus corrupti
-        ipsum quo eius recusandae necessitatibus numquam sed, dolorum sequi
-        dignissimos illum omnis. Sunt consequatur nisi dignissimos at maxime
-        numquam consectetur pariatur aut explicabo.
+        Hello! My name is Matthew Casey, and I am a web developer from the
+        University of Texas at Austin. I have hands-on training using front-end
+        and back-end technologies, creating dynamic websites and solving a
+        variety of challenges.
       </p>
       <div className="d-flex justify-content-center p-4">
         <div className="p-2" id="icon">

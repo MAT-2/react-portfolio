@@ -43,16 +43,14 @@ function Portfolio() {
             <div className="col">
               <div className="card h-100">
                 <img
-                  src="https://i.pinimg.com/736x/ee/df/7f/eedf7fbe24e04c0e775941f54e616f4d.jpg"
+                  src="/src/images/quote-of-the-day-logo.png"
                   className="card-img-top"
                 />
                 <div className="card-body">
-                  <h5 className="card-title">Project 1 </h5>
+                  <h5 className="card-title">Quote Of The Day</h5>
                   <p className="card-text">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Repellendus quas, deserunt accusamus corrupti est, minus
-                    nulla incidunt illo corporis pariatur maiores officia, ipsum
-                    asperiores atque.
+                    A project that provides a randomized quote, followed by a
+                    search API to learn more about the author of the quote.
                   </p>
                 </div>
               </div>
@@ -60,16 +58,14 @@ function Portfolio() {
             <div className="col">
               <div className="card h-100">
                 <img
-                  src="https://i.pinimg.com/736x/ee/df/7f/eedf7fbe24e04c0e775941f54e616f4d.jpg"
+                  src="/src/images/stressfree.jpg"
                   className="card-img-top"
                 />
                 <div className="card-body">
-                  <h5 className="card-title">Project 2</h5>
+                  <h5 className="card-title">Stress-Free-Me</h5>
                   <p className="card-text">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Repellendus quas, deserunt accusamus corrupti est, minus
-                    nulla incidunt illo corporis pariatur maiores officia, ipsum
-                    asperiores atque.
+                    A project measuring a user's stress levels, and providing a
+                    chart showing stress results.
                   </p>
                 </div>
               </div>
@@ -77,16 +73,14 @@ function Portfolio() {
             <div className="col">
               <div className="card h-100">
                 <img
-                  src="https://i.pinimg.com/736x/ee/df/7f/eedf7fbe24e04c0e775941f54e616f4d.jpg"
+                  src="/src/images/employeeTracker.png"
                   className="card-img-top"
                 />
                 <div className="card-body">
-                  <h5 className="card-title">Project 3</h5>
+                  <h5 className="card-title">Employee Tracker</h5>
                   <p className="card-text">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Repellendus quas, deserunt accusamus corrupti est, minus
-                    nulla incidunt illo corporis pariatur maiores officia, ipsum
-                    asperiores atque.
+                    A employee tracking database, where a user can view and
+                    update with new information via the terminal.
                   </p>
                 </div>
               </div>
@@ -94,16 +88,13 @@ function Portfolio() {
             <div className="col">
               <div className="card h-100">
                 <img
-                  src="https://i.pinimg.com/736x/ee/df/7f/eedf7fbe24e04c0e775941f54e616f4d.jpg"
+                  src="/src/images/markdownPNG.png"
                   className="card-img-top"
                 />
                 <div className="card-body">
-                  <h5 className="card-title">Project 4</h5>
+                  <h5 className="card-title">README Generator</h5>
                   <p className="card-text">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Repellendus quas, deserunt accusamus corrupti est, minus
-                    nulla incidunt illo corporis pariatur maiores officia, ipsum
-                    asperiores atque.
+                    This project allows a user to create generated README file.
                   </p>
                 </div>
               </div>
@@ -111,16 +102,14 @@ function Portfolio() {
             <div className="col">
               <div className="card h-100">
                 <img
-                  src="https://i.pinimg.com/736x/ee/df/7f/eedf7fbe24e04c0e775941f54e616f4d.jpg"
+                  src="/src/images/etchSketch.JPG"
                   className="card-img-top"
                 />
                 <div className="card-body">
-                  <h5 className="card-title">Project 5</h5>
+                  <h5 className="card-title">Etch-a-Sketch</h5>
                   <p className="card-text">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Repellendus quas, deserunt accusamus corrupti est, minus
-                    nulla incidunt illo corporis pariatur maiores officia, ipsum
-                    asperiores atque.
+                    A project that allows a user to draw. Options include
+                    different colors, erase, reset, and setting size.
                   </p>
                 </div>
               </div>
@@ -128,16 +117,13 @@ function Portfolio() {
             <div className="col">
               <div className="card h-100">
                 <img
-                  src="https://i.pinimg.com/736x/ee/df/7f/eedf7fbe24e04c0e775941f54e616f4d.jpg"
+                  src="/src/images/rockPaperScissors.JPG"
                   className="card-img-top"
                 />
                 <div className="card-body">
-                  <h5 className="card-title">Project 6</h5>
+                  <h5 className="card-title">Rock-Paper-Scissors</h5>
                   <p className="card-text">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Repellendus quas, deserunt accusamus corrupti est, minus
-                    nulla incidunt illo corporis pariatur maiores officia, ipsum
-                    asperiores atque.
+                    A simple rock-paper-scissors game.
                   </p>
                 </div>
               </div>

@@ -38,7 +38,12 @@ function Resume() {
   return (
     <div style={styles.body && styles.card}>
       <h1 style={styles.heading}>Resume</h1>
-      <p style={styles.content}>Download my resume here:</p>
+      <p style={styles.content}>
+        Download my{" "}
+        <a href="resumeWebDeveloper.pdf" target="_blank">
+          resume
+        </a>
+      </p>
 
       <p style={styles.content}>Front-End Technologies:</p>
       <p style={styles.content}>Back-End Technologies:</p>

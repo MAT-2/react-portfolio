@@ -34,3 +34,6 @@ Refer to License
 - https://www.w3schools.com/cssref/css3_pr_transform.php
 - https://www.w3schools.com/css/css3_transitions.asp
 - https://css-tricks.com/ease-out-in-ease-in-out/
+- Employee tracker Image: https://thenounproject.com/browse/icons/term/employee-time/
+- README Image: https://iconscout.com/icons/markdown
+- Rock Paper Scissors Image: https://in.pinterest.com/pin/rock-paper-scissors-rock-drawing-paper-drawing-rock-sketch-png-transparent-clipart-image-and-psd-file-for-free-download--747879081845727421/
