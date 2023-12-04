@@ -31,6 +31,7 @@ const styles = {
     outlineStyle: "solid",
     outlineWidth: "4px",
   },
+  image: { height: "25rem", width: "25rem", margin: "10px" },
 };
 
 function Portfolio() {
@@ -46,10 +47,12 @@ function Portfolio() {
                   href="https://github.com/elmfer/quote-of-the-day"
                   target="_blank"
                   rel="noreferrer"
+                  className="text-center"
                 >
                   <img
+                    style={styles.image}
                     src="/quote-of-the-day-logo.png"
-                    className="card-img-top"
+                    className="card-img-top "
                   />
                 </a>
                 <div className="card-body">
@@ -67,8 +70,13 @@ function Portfolio() {
                   href="https://github.com/bmancuso3/stress-free-me"
                   target="_blank"
                   rel="noreferrer"
+                  className="text-center"
                 >
-                  <img src="/stressfree.jpg" className="card-img-top" />
+                  <img
+                    style={styles.image}
+                    src="/stressfree.jpg"
+                    className="card-img-top"
+                  />
                 </a>
                 <div className="card-body">
                   <h5 className="card-title">Stress-Free-Me</h5>
@@ -85,8 +93,13 @@ function Portfolio() {
                   href="https://github.com/MAT-2/employee-tracker"
                   target="_blank"
                   rel="noreferrer"
+                  className="text-center"
                 >
-                  <img src="/employeeTracker.png" className="card-img-top" />
+                  <img
+                    style={styles.image}
+                    src="/employeeTracker.png"
+                    className="card-img-top"
+                  />
                 </a>
                 <div className="card-body">
                   <h5 className="card-title">Employee Tracker</h5>
@@ -103,8 +116,13 @@ function Portfolio() {
                   href="https://github.com/MAT-2/readme-generator"
                   target="_blank"
                   rel="noreferrer"
+                  className="text-center"
                 >
-                  <img src="/markdownPNG.png" className="card-img-top" />
+                  <img
+                    style={styles.image}
+                    src="/markdownPNG.png"
+                    className="card-img-top"
+                  />
                 </a>
                 <div className="card-body">
                   <h5 className="card-title">README Generator</h5>
@@ -120,8 +138,13 @@ function Portfolio() {
                   href="https://github.com/MAT-2/Etch-a-Sketch"
                   target="_blank"
                   rel="noreferrer"
+                  className="text-center"
                 >
-                  <img src="/etchSketch.JPG" className="card-img-top" />
+                  <img
+                    style={styles.image}
+                    src="/etchSketch.JPG"
+                    className="card-img-top"
+                  />
                 </a>
                 <div className="card-body">
                   <h5 className="card-title">Etch-a-Sketch</h5>
@@ -138,8 +161,13 @@ function Portfolio() {
                   href="https://github.com/MAT-2/Rock-Paper-Scissors-Project"
                   target="_blank"
                   rel="noreferrer"
+                  className="text-center"
                 >
-                  <img src="/rockPaperScissors.JPG" className="card-img-top" />
+                  <img
+                    style={styles.image}
+                    src="/rockPaperScissors.JPG"
+                    className="card-img-top"
+                  />
                 </a>
                 <div className="card-body">
                   <h5 className="card-title">Rock-Paper-Scissors</h5>
