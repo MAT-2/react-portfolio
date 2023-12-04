@@ -40,7 +40,7 @@ function Resume() {
       <h1 style={styles.heading}>Resume</h1>
       <p style={styles.content}>
         Download my{" "}
-        <a href="resumeWebDeveloper.pdf" target="_blank">
+        <a href="/resumeWebDeveloper.pdf" target="_blank">
           resume
         </a>
       </p>
