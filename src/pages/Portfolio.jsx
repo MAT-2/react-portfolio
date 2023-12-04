@@ -48,7 +48,7 @@ function Portfolio() {
                   rel="noreferrer"
                 >
                   <img
-                    src="/src/images/quote-of-the-day-logo.png"
+                    src="images/quote-of-the-day-logo.png"
                     className="card-img-top"
                   />
                 </a>
@@ -68,10 +68,7 @@ function Portfolio() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img
-                    src="/src/images/stressfree.jpg"
-                    className="card-img-top"
-                  />
+                  <img src="images/stressfree.jpg" className="card-img-top" />
                 </a>
                 <div className="card-body">
                   <h5 className="card-title">Stress-Free-Me</h5>
@@ -90,7 +87,7 @@ function Portfolio() {
                   rel="noreferrer"
                 >
                   <img
-                    src="/src/images/employeeTracker.png"
+                    src="images/employeeTracker.png"
                     className="card-img-top"
                   />
                 </a>
@@ -110,10 +107,7 @@ function Portfolio() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img
-                    src="/src/images/markdownPNG.png"
-                    className="card-img-top"
-                  />
+                  <img src="images/markdownPNG.png" className="card-img-top" />
                 </a>
                 <div className="card-body">
                   <h5 className="card-title">README Generator</h5>
@@ -130,10 +124,7 @@ function Portfolio() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img
-                    src="/src/images/etchSketch.JPG"
-                    className="card-img-top"
-                  />
+                  <img src="images/etchSketch.JPG" className="card-img-top" />
                 </a>
                 <div className="card-body">
                   <h5 className="card-title">Etch-a-Sketch</h5>
@@ -152,7 +143,7 @@ function Portfolio() {
                   rel="noreferrer"
                 >
                   <img
-                    src="/src/images/rockPaperScissors.JPG"
+                    src="images/rockPaperScissors.JPG"
                     className="card-img-top"
                   />
                 </a>

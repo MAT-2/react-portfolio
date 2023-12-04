@@ -46,7 +46,28 @@ function Resume() {
       </p>
 
       <p style={styles.content}>Front-End Technologies:</p>
+      <ul style={styles.content} className="p-5 ">
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>React</li>
+        <li>Bootstrap</li>
+        <li>jQuery</li>
+        <li>Bulma</li>
+      </ul>
       <p style={styles.content}>Back-End Technologies:</p>
+      <ul style={styles.content} className="p-5">
+        <li>Node</li>
+        <li>Express</li>
+        <li>NoSQL</li>
+        <li>MySQL</li>
+        <li>MongoDB</li>
+        <li>Sequelize</li>
+        <li>Mongoose</li>
+        <li>APIs</li>
+        <li>GraphQL</li>
+        <li>Apollo</li>
+      </ul>
       <div className="d-flex justify-content-center p-4">
         <div className="p-2" id="icon">
           <FontAwesomeIcon icon={faGithub} size="4x" />
